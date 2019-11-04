@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/artfin/Desktop/repos/ar_h2/potential_energy/main.cpp
+iostream
+-
+iomanip
+-
+vector
+-
+cmath
+-
+gsl/gsl_sf_legendre.h
+-
+
